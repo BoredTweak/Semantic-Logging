@@ -1,0 +1,51 @@
+----------
+EventId : 102, Level : Warning, Message : Warning, Payload : [className : LoggableApplication] [methodName : ExcitingMethod] [message : diagnostic log 0] , EventName : WarningInfo, Timestamp : 2019-01-18T16:41:43.3621397Z, ProcessId : 10252, ThreadId : 19560
+
+----------
+EventId : 102, Level : Warning, Message : Warning, Payload : [className : LoggableApplication] [methodName : ExcitingMethod] [message : diagnostic log 1] , EventName : WarningInfo, Timestamp : 2019-01-18T16:41:43.3621474Z, ProcessId : 10252, ThreadId : 19560
+
+----------
+EventId : 102, Level : Warning, Message : Warning, Payload : [className : LoggableApplication] [methodName : ExcitingMethod] [message : diagnostic log 2] , EventName : WarningInfo, Timestamp : 2019-01-18T16:41:43.3621487Z, ProcessId : 10252, ThreadId : 19560
+
+----------
+EventId : 102, Level : Warning, Message : Warning, Payload : [className : LoggableApplication] [methodName : ExcitingMethod] [message : diagnostic log 3] , EventName : WarningInfo, Timestamp : 2019-01-18T16:41:43.3621496Z, ProcessId : 10252, ThreadId : 19560
+
+----------
+EventId : 102, Level : Warning, Message : Warning, Payload : [className : LoggableApplication] [methodName : ExcitingMethod] [message : diagnostic log 4] , EventName : WarningInfo, Timestamp : 2019-01-18T16:41:43.3621505Z, ProcessId : 10252, ThreadId : 19560
+
+----------
+EventId : 102, Level : Warning, Message : Warning, Payload : [className : LoggableApplication] [methodName : ExcitingMethod] [message : diagnostic log 5] , EventName : WarningInfo, Timestamp : 2019-01-18T16:41:43.3621513Z, ProcessId : 10252, ThreadId : 19560
+
+----------
+EventId : 102, Level : Warning, Message : Warning, Payload : [className : LoggableApplication] [methodName : ExcitingMethod] [message : diagnostic log 6] , EventName : WarningInfo, Timestamp : 2019-01-18T16:41:43.3621522Z, ProcessId : 10252, ThreadId : 19560
+
+----------
+ProviderId : 2ceb509d-ad35-5619-a80c-691aab6fbfcb
+EventId : 101
+Keywords : None
+Level : Error
+Message : Error
+Opcode : Info
+Task : 65433
+Version : 0
+Payload : [className : LoggableApplication] [methodName : ExcitingMethod] [message : error log 1998] 
+EventName : ErrorInfo
+Timestamp : 2019-01-18T16:41:43.3648566Z
+ProcessId : 10252
+ThreadId : 19560
+
+----------
+ProviderId : 2ceb509d-ad35-5619-a80c-691aab6fbfcb
+EventId : 101
+Keywords : None
+Level : Error
+Message : Error
+Opcode : Info
+Task : 65433
+Version : 0
+Payload : [className : LoggableApplication] [methodName : ExcitingMethod] [message : error log 1999] 
+EventName : ErrorInfo
+Timestamp : 2019-01-18T16:41:43.3648574Z
+ProcessId : 10252
+ThreadId : 19560
+

@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingInfrastructure", "Source Code\LoggingInfrastructure\LoggingInfrastructure.csproj", "{E6C3BEA8-326F-43E1-AB0E-F9233D56B2D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggableApplication", "Samples\LoggableApplication\LoggableApplication.csproj", "{3012AFCC-8290-4E18-A837-6F6CE2628DDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggableApplication", "Samples\LoggableApplication\LoggableApplication.csproj", "{3012AFCC-8290-4E18-A837-6F6CE2628DDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

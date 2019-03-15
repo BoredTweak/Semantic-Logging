@@ -1,0 +1,9 @@
+pip install nltk
+pip install numpy
+
+# MANUAL
+# import nltk
+# nltk.download()
+# models > punkt > download
+# models > average_perceptron_tagger
+# then I got lazy and did: collections > all-nltk

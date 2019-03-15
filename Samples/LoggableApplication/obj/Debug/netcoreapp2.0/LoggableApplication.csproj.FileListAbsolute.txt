@@ -1,0 +1,14 @@
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\bin\Debug\netcoreapp2.0\LoggableApplication.deps.json
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\bin\Debug\netcoreapp2.0\LoggableApplication.runtimeconfig.json
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\bin\Debug\netcoreapp2.0\LoggableApplication.runtimeconfig.dev.json
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\bin\Debug\netcoreapp2.0\LoggableApplication.dll
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\bin\Debug\netcoreapp2.0\LoggableApplication.pdb
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\bin\Debug\netcoreapp2.0\LoggingInfrastructure.dll
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\bin\Debug\netcoreapp2.0\LoggingInfrastructure.pdb
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\obj\Debug\netcoreapp2.0\LoggableApplication.csprojAssemblyReference.cache
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\obj\Debug\netcoreapp2.0\LoggableApplication.csproj.CoreCompileInputs.cache
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\obj\Debug\netcoreapp2.0\LoggableApplication.AssemblyInfoInputs.cache
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\obj\Debug\netcoreapp2.0\LoggableApplication.AssemblyInfo.cs
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\obj\Debug\netcoreapp2.0\LoggableApplication.csproj.CopyComplete
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\obj\Debug\netcoreapp2.0\LoggableApplication.dll
+C:\Dev\Learning\CSharp\SemanticLogging\Samples\LoggableApplication\obj\Debug\netcoreapp2.0\LoggableApplication.pdb

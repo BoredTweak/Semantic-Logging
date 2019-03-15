@@ -1,5 +1,5 @@
-﻿using LoggingInfrastructure;
-using System;
+﻿using System;
+using LoggingInfrastructure;
 
 namespace LoggableApplication
 {
@@ -8,24 +8,29 @@ namespace LoggableApplication
         public static void Main(string[] args)
         {
             Console.WriteLine("Sampling diagnostic logging");
-            ExcitingMethod(false);
+            for (var i = 0; i < 200; i++)
+            {
+                ExcitingMethod(false, $"diagnostic log {i}");
+            }
 
             Console.WriteLine("Sampling error logging");
-            ExcitingMethod(true);
+            for (var i = 0; i < 2000; i++)
+            {
+                ExcitingMethod(true, $"error log {i}");
+            }
         }
 
-        private static void ExcitingMethod(bool doesThrowException)
+        private static void ExcitingMethod(bool doesThrowException, string message = "")
         {
-            if(doesThrowException)
+            if (doesThrowException)
             {
-                var message = "ExcitingMethod threw an error.";
+                message = string.IsNullOrEmpty(message) ? "ExcitingMethod threw an error." : message;
                 FeatureSpecificEventSource.Log.Error(nameof(LoggableApplication), nameof(ExcitingMethod), message);
-                throw new InvalidOperationException(message);
             }
             else
             {
-                var message = "ExcitingMethod did not throw an error.";
-                FeatureSpecificEventSource.Log.Diagnostic(nameof(LoggableApplication), nameof(ExcitingMethod), message);
+                message = string.IsNullOrEmpty(message) ? "ExcitingMethod did not throw an error." : message;
+                FeatureSpecificEventSource.Log.Warning(nameof(LoggableApplication), nameof(ExcitingMethod), message);
             }
         }
     }
