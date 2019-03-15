@@ -1,8 +1,0 @@
-C:\Dev\Learning\CSharp\SemanticLogging\Source Code\LoggingInfrastructure\bin\Debug\netcoreapp2.0\LoggingInfrastructure.deps.json
-C:\Dev\Learning\CSharp\SemanticLogging\Source Code\LoggingInfrastructure\bin\Debug\netcoreapp2.0\LoggingInfrastructure.dll
-C:\Dev\Learning\CSharp\SemanticLogging\Source Code\LoggingInfrastructure\bin\Debug\netcoreapp2.0\LoggingInfrastructure.pdb
-C:\Dev\Learning\CSharp\SemanticLogging\Source Code\LoggingInfrastructure\obj\Debug\netcoreapp2.0\LoggingInfrastructure.csproj.CoreCompileInputs.cache
-C:\Dev\Learning\CSharp\SemanticLogging\Source Code\LoggingInfrastructure\obj\Debug\netcoreapp2.0\LoggingInfrastructure.AssemblyInfoInputs.cache
-C:\Dev\Learning\CSharp\SemanticLogging\Source Code\LoggingInfrastructure\obj\Debug\netcoreapp2.0\LoggingInfrastructure.AssemblyInfo.cs
-C:\Dev\Learning\CSharp\SemanticLogging\Source Code\LoggingInfrastructure\obj\Debug\netcoreapp2.0\LoggingInfrastructure.dll
-C:\Dev\Learning\CSharp\SemanticLogging\Source Code\LoggingInfrastructure\obj\Debug\netcoreapp2.0\LoggingInfrastructure.pdb

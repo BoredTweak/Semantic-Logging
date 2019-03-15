@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 .vs
 packages/*
 bin
 obj
+=======
+.vs
+>>>>>>> parent of 1762b66... Adding start to a parser
